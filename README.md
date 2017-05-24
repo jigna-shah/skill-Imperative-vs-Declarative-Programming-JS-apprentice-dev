@@ -1,7 +1,8 @@
 # SKILL: Imperative vs Declarative Programming language (Fullstack) - JavaScript (Apprentice Developer)
 
 ## [PRE-REQUISITES]
-  * None ? -- May be object structure skills in javascript?
+  * [Introduction to Javascript programming](https://github.com/Harmelodic/skill-intro-to-javascript-apprentice-dev)
+  * [How Javascript works](https://github.com/Harmelodic/skill-how-javascript-works-apprentice-dev)
 
 ## [TOPICS]
   * What is imperative programming in JS
