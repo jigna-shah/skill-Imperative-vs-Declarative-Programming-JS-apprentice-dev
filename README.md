@@ -1,4 +1,4 @@
-# SKILL: Imperative vs Declarative Programming language (Fullstack) - JavaScript (Apprentice Developer)
+# SKILL: Imperative vs Declarative Programming - JavaScript (Apprentice Developer)
 
 ## [PRE-REQUISITES]
   * [Introduction to Javascript programming](https://github.com/Harmelodic/skill-intro-to-javascript-apprentice-dev)
